@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 72" fill="none" role="img" aria-labelledby="techChipsTitle">
+  <title id="techChipsTitle">Technology capability chips</title>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">
+    <rect x="0" y="16" width="72" height="40" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/><text x="22" y="41" fill="#04275F">AWS</text>
+    <rect x="84" y="16" width="84" height="40" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/><text x="104" y="41" fill="#04275F">AZURE</text>
+    <rect x="180" y="16" width="120" height="40" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/><text x="198" y="41" fill="#04275F">KUBERNETES</text>
+    <rect x="312" y="16" width="110" height="40" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/><text x="330" y="41" fill="#04275F">TERRAFORM</text>
+    <rect x="434" y="16" width="96" height="40" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/><text x="456" y="41" fill="#04275F">ARGOCD</text>
+    <rect x="542" y="16" width="168" height="40" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/><text x="560" y="41" fill="#04275F">PROMETHEUS · GRAFANA</text>
+  </g>
+</svg>

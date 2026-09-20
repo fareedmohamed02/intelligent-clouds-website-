@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 168" fill="none" role="img" aria-labelledby="icRevTitle">
+  <title id="icRevTitle">Intelligent-Cloud reverse mark for dark backgrounds</title>
+  <defs>
+    <linearGradient id="icRevPlateA" x1="70" y1="48" x2="130" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7EB6F0"/>
+      <stop offset="55%" stop-color="#438BD8"/>
+      <stop offset="100%" stop-color="#1A4A8C"/>
+    </linearGradient>
+    <linearGradient id="icRevPlateB" x1="110" y1="52" x2="170" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5BA3E0"/>
+      <stop offset="100%" stop-color="#0D2E66"/>
+    </linearGradient>
+    <linearGradient id="icRevPlateC" x1="140" y1="58" x2="190" y2="145" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#438BD8"/>
+      <stop offset="100%" stop-color="#071A3D"/>
+    </linearGradient>
+  </defs>
+  <path
+    fill="#FFFFFF"
+    fill-opacity="0.96"
+    stroke="#9FCBEF"
+    stroke-width="3.5"
+    stroke-linejoin="round"
+    d="M28 128 L212 128
+       C224 128 230 118 230 106
+       C230 90 218 78 202 76
+       C204 54 188 38 166 38
+       C158 38 151 41 145 46
+       C136 28 118 18 98 18
+       C72 18 52 36 48 58
+       C32 60 20 74 20 92
+       C20 112 28 128 28 128 Z"
+  />
+  <path fill="url(#icRevPlateA)" d="M78 128 L118 52 L148 52 L118 128 Z"/>
+  <path fill="url(#icRevPlateB)" d="M108 128 L138 58 L168 58 L148 128 Z"/>
+  <path fill="url(#icRevPlateC)" d="M138 128 L162 68 L188 68 L172 128 Z"/>
+  <path fill="#071A3D" d="M148 128 L168 90 L188 90 L172 128 Z" opacity="0.9"/>
+  <path fill="#F26A13" d="M118 52 L133 28 L148 52 Z"/>
+  <path stroke="#031029" stroke-width="2.25" stroke-linecap="round" d="M118 54 L108 128"/>
+  <path stroke="#031029" stroke-width="2.25" stroke-linecap="round" d="M148 56 L138 128"/>
+</svg>

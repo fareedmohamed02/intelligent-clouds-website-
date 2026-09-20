@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" fill="none" role="img" aria-labelledby="pAssessTitle">
+  <title id="pAssessTitle">Assess</title>
+  <rect width="280" height="180" rx="14" fill="#F8FAFC" stroke="#E4EAF1"/>
+  <text x="20" y="32" fill="#F26A13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.12em">01</text>
+  <text x="48" y="32" fill="#04275F" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="600">Assess</text>
+  <text x="20" y="56" fill="#5F6B7A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Audit architecture, cost, and security posture</text>
+  <circle cx="70" cy="110" r="14" stroke="#04275F" stroke-width="2"/>
+  <circle cx="130" cy="96" r="14" stroke="#2D63BD" stroke-width="2"/>
+  <circle cx="190" cy="118" r="14" stroke="#438BD8" stroke-width="2"/>
+  <path d="M84 110h32M144 100l32 14" stroke="#E4EAF1" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="70" cy="110" r="3" fill="#F26A13"/>
+  <circle cx="130" cy="96" r="3" fill="#2D63BD"/>
+  <circle cx="190" cy="118" r="3" fill="#438BD8"/>
+</svg>

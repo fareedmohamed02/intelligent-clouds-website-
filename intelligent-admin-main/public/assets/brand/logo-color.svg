@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 168" fill="none" role="img" aria-labelledby="icLogoTitle icLogoDesc">
+  <title id="icLogoTitle">Intelligent-Cloud</title>
+  <desc id="icLogoDesc">Cloud mark with layered architectural mountain peak and orange apex</desc>
+  <defs>
+    <linearGradient id="icPlateA" x1="70" y1="48" x2="130" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4A90E2"/>
+      <stop offset="55%" stop-color="#2D63BD"/>
+      <stop offset="100%" stop-color="#0A2A5C"/>
+    </linearGradient>
+    <linearGradient id="icPlateB" x1="110" y1="52" x2="170" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B7FD4"/>
+      <stop offset="50%" stop-color="#1E4F9E"/>
+      <stop offset="100%" stop-color="#071A3D"/>
+    </linearGradient>
+    <linearGradient id="icPlateC" x1="140" y1="58" x2="190" y2="145" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2D63BD"/>
+      <stop offset="100%" stop-color="#061433"/>
+    </linearGradient>
+    <linearGradient id="icCloudFill" x1="120" y1="20" x2="120" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="70%" stop-color="#F3F8FD"/>
+      <stop offset="100%" stop-color="#E3F0FA"/>
+    </linearGradient>
+    <linearGradient id="icCloudStroke" x1="40" y1="40" x2="200" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#9FCBEF"/>
+      <stop offset="100%" stop-color="#5BA3E0"/>
+    </linearGradient>
+    <filter id="icSoft" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="b"/>
+      <feOffset dy="1" result="o"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.12"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Cloud body -->
+  <path
+    filter="url(#icSoft)"
+    fill="url(#icCloudFill)"
+    stroke="url(#icCloudStroke)"
+    stroke-width="3.5"
+    stroke-linejoin="round"
+    d="M28 128
+       C28 128 28 128 28 128
+       L212 128
+       C224 128 230 118 230 106
+       C230 90 218 78 202 76
+       C204 54 188 38 166 38
+       C158 38 151 41 145 46
+       C136 28 118 18 98 18
+       C72 18 52 36 48 58
+       C32 60 20 74 20 92
+       C20 112 28 128 28 128
+       Z"
+  />
+
+  <!-- Architectural mountain: back plate -->
+  <path fill="url(#icPlateA)" d="M78 128 L118 52 L148 52 L118 128 Z"/>
+  <!-- Mid plate -->
+  <path fill="url(#icPlateB)" d="M108 128 L138 58 L168 58 L148 128 Z"/>
+  <!-- Front plate -->
+  <path fill="url(#icPlateC)" d="M138 128 L162 68 L188 68 L172 128 Z"/>
+  <!-- Inner facet / lower-right wedge -->
+  <path fill="#071A3D" d="M148 128 L168 90 L188 90 L172 128 Z" opacity="0.85"/>
+  <!-- Orange apex -->
+  <path fill="#F26A13" d="M118 52 L133 28 L148 52 Z"/>
+  <!-- Plate separators (negative-space feel) -->
+  <path stroke="#050E22" stroke-width="2.25" stroke-linecap="round" d="M118 54 L108 128"/>
+  <path stroke="#050E22" stroke-width="2.25" stroke-linecap="round" d="M148 56 L138 128"/>
+  <path stroke="#050E22" stroke-width="1.75" stroke-linecap="round" opacity="0.7" d="M168 68 L158 128"/>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" fill="none" role="img" aria-labelledby="devopsTitle">
+  <title id="devopsTitle">DevOps and Kubernetes delivery strip</title>
+  <rect width="720" height="160" rx="16" fill="#D9EAF8"/>
+  <text x="24" y="34" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.1em">GITOPS DELIVERY</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">
+    <rect x="24" y="56" width="110" height="64" rx="10" fill="#FFFFFF" stroke="#E4EAF1"/>
+    <text x="52" y="94" fill="#04275F">COMMIT</text>
+    <path d="M140 88h28" stroke="#F26A13" stroke-width="2"/>
+    <path d="M160 80l8 8-8 8" fill="#F26A13"/>
+
+    <rect x="176" y="56" width="110" height="64" rx="10" fill="#FFFFFF" stroke="#E4EAF1"/>
+    <text x="208" y="94" fill="#04275F">BUILD</text>
+    <path d="M292 88h28" stroke="#F26A13" stroke-width="2"/>
+    <path d="M312 80l8 8-8 8" fill="#F26A13"/>
+
+    <rect x="328" y="56" width="110" height="64" rx="10" fill="#FFFFFF" stroke="#E4EAF1"/>
+    <text x="356" y="94" fill="#04275F">DEPLOY</text>
+    <path d="M444 88h28" stroke="#F26A13" stroke-width="2"/>
+    <path d="M464 80l8 8-8 8" fill="#F26A13"/>
+
+    <rect x="480" y="56" width="110" height="64" rx="10" fill="#FFFFFF" stroke="#E4EAF1"/>
+    <text x="508" y="94" fill="#04275F">VERIFY</text>
+    <path d="M596 88h28" stroke="#F26A13" stroke-width="2"/>
+    <path d="M616 80l8 8-8 8" fill="#F26A13"/>
+
+    <rect x="632" y="56" width="64" height="64" rx="10" fill="#04275F"/>
+    <text x="646" y="94" fill="#FFFFFF">K8S</text>
+  </g>
+</svg>

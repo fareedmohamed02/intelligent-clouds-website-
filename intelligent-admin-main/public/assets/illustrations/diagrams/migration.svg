@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" fill="none" role="img" aria-labelledby="migTitle">
+  <title id="migTitle">Cloud migration from on-premise to AWS and Azure</title>
+  <rect width="640" height="220" rx="16" fill="#FFFFFF" stroke="#E4EAF1"/>
+  <text x="24" y="32" fill="#5F6B7A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.1em">MIGRATION PATH</text>
+
+  <!-- On-prem -->
+  <rect x="32" y="56" width="160" height="120" rx="12" fill="#F8FAFC" stroke="#04275F" stroke-width="1.75"/>
+  <text x="56" y="84" fill="#5F6B7A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">ON-PREMISE</text>
+  <rect x="56" y="98" width="48" height="48" rx="6" stroke="#04275F" stroke-width="1.75"/>
+  <rect x="62" y="104" width="36" height="8" fill="#D9EAF8"/>
+  <rect x="62" y="116" width="36" height="8" fill="#D9EAF8"/>
+  <rect x="62" y="128" width="36" height="8" fill="#D9EAF8"/>
+  <rect x="120" y="106" width="48" height="32" rx="4" stroke="#2D63BD" stroke-width="1.5"/>
+  <text x="128" y="126" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">APPS</text>
+
+  <!-- Arrow path -->
+  <path id="migPath" d="M208 116 H300" stroke="#F26A13" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M292 108 L308 116 L292 124" fill="#F26A13"/>
+  <text x="230" y="100" fill="#F26A13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">CUTOVER</text>
+  <circle r="4" fill="#438BD8">
+    <animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#migPath"/></animateMotion>
+  </circle>
+
+  <!-- Cloud target -->
+  <rect x="320" y="56" width="288" height="120" rx="12" fill="#D9EAF8" stroke="#2D63BD" stroke-width="1.75"/>
+  <text x="344" y="84" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">AWS / AZURE CLOUD</text>
+  <rect x="344" y="100" width="72" height="48" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/>
+  <text x="358" y="128" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">K8S</text>
+  <rect x="428" y="100" width="72" height="48" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/>
+  <text x="438" y="128" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">CI/CD</text>
+  <rect x="512" y="100" width="72" height="48" rx="8" fill="#FFFFFF" stroke="#E4EAF1"/>
+  <text x="522" y="122" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">SECURE</text>
+  <text x="528" y="136" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">+ OBS</text>
+
+  <text x="24" y="204" fill="#5F6B7A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">PHASED MIGRATION · MINIMIZED DOWNTIME</text>
+</svg>

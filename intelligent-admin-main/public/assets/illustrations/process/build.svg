@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" fill="none" role="img" aria-labelledby="pBuildTitle">
+  <title id="pBuildTitle">Build</title>
+  <rect width="280" height="180" rx="14" fill="#F8FAFC" stroke="#E4EAF1"/>
+  <text x="20" y="32" fill="#F26A13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.12em">03</text>
+  <text x="48" y="32" fill="#04275F" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="600">Build</text>
+  <text x="20" y="56" fill="#5F6B7A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Terraform / GitOps / CI/CD - nothing manual</text>
+  <rect x="36" y="84" width="60" height="56" rx="8" stroke="#04275F" stroke-width="2"/>
+  <rect x="110" y="84" width="60" height="56" rx="8" stroke="#2D63BD" stroke-width="2"/>
+  <rect x="184" y="84" width="60" height="56" rx="8" stroke="#438BD8" stroke-width="2"/>
+  <text x="46" y="116" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">IaC</text>
+  <text x="120" y="116" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">K8S</text>
+  <text x="192" y="116" fill="#04275F" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10">CI/CD</text>
+  <path d="M96 112h14M170 112h14" stroke="#F26A13" stroke-width="2"/>
+</svg>

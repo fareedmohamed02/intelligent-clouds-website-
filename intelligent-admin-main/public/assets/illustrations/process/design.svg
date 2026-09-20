@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" fill="none" role="img" aria-labelledby="pDesignTitle">
+  <title id="pDesignTitle">Design</title>
+  <rect width="280" height="180" rx="14" fill="#F8FAFC" stroke="#E4EAF1"/>
+  <text x="20" y="32" fill="#F26A13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.12em">02</text>
+  <text x="48" y="32" fill="#04275F" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="600">Design</text>
+  <text x="20" y="56" fill="#5F6B7A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Landing zones, platforms, migration plans</text>
+  <rect x="48" y="78" width="184" height="72" rx="10" stroke="#04275F" stroke-width="2"/>
+  <path d="M48 104h184M110 78v72M170 78v72" stroke="#2D63BD" stroke-width="1.5"/>
+  <circle cx="140" cy="114" r="5" fill="#F26A13"/>
+</svg>

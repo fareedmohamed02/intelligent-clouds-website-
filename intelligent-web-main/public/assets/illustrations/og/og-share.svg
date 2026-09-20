@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none" role="img" aria-labelledby="ogTitle">
+  <title id="ogTitle">Intelligent-Cloud social share image</title>
+  <defs>
+    <linearGradient id="ogBg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#04275F"/>
+      <stop offset="55%" stop-color="#071A3D"/>
+      <stop offset="100%" stop-color="#0A1630"/>
+    </linearGradient>
+    <linearGradient id="ogPlate" x1="820" y1="140" x2="1080" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#438BD8"/>
+      <stop offset="100%" stop-color="#0A2A5C"/>
+    </linearGradient>
+    <pattern id="ogDots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#ogBg)"/>
+  <rect width="1200" height="630" fill="url(#ogDots)"/>
+  <rect x="0" y="0" width="8" height="630" fill="#F26A13"/>
+
+  <text x="80" y="210" fill="#9FCBEF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="0.16em">ENTERPRISE CLOUD · DEVOPS · KUBERNETES</text>
+  <text x="80" y="300" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="72" font-weight="600">Intelligent-Cloud</text>
+  <text x="80" y="370" fill="#D9EAF8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="32">Cloud infrastructure engineered for modern business</text>
+  <text x="80" y="440" fill="#F26A13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="0.14em">SECURE · INNOVATE · TRANSFORM</text>
+  <text x="80" y="560" fill="#5F6B7A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20">AWS · Azure · Kubernetes · Managed Operations</text>
+
+  <!-- Decorative mark -->
+  <g transform="translate(820,140)">
+    <path fill="#FFFFFF" fill-opacity="0.95" stroke="#5BA3E0" stroke-width="4"
+      d="M20 220 L260 220 C278 220 286 204 286 186 C286 160 268 142 246 140 C248 108 226 86 198 86 C188 86 180 90 174 96 C164 72 144 58 120 58 C90 58 68 78 64 106 C46 108 32 126 32 150 C32 186 20 220 20 220 Z"/>
+    <path fill="url(#ogPlate)" d="M80 220 L130 90 L165 90 L130 220 Z"/>
+    <path fill="#1E4F9E" d="M120 220 L160 100 L195 100 L170 220 Z"/>
+    <path fill="#071A3D" d="M160 220 L190 115 L225 115 L205 220 Z"/>
+    <path fill="#F26A13" d="M130 90 L147.5 55 L165 90 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" fill="none" role="img" aria-labelledby="pOperateTitle">
+  <title id="pOperateTitle">Operate</title>
+  <rect width="280" height="180" rx="14" fill="#F8FAFC" stroke="#E4EAF1"/>
+  <text x="20" y="32" fill="#F26A13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="0.12em">04</text>
+  <text x="48" y="32" fill="#04275F" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="600">Operate</text>
+  <text x="20" y="56" fill="#5F6B7A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">24×7 monitoring, response, and optimization</text>
+  <rect x="36" y="78" width="208" height="72" rx="10" stroke="#04275F" stroke-width="2"/>
+  <circle cx="60" cy="114" r="5" fill="#0F766E"/>
+  <text x="74" y="118" fill="#0B1730" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">HEALTHY</text>
+  <path d="M170 96v36M186 104v28M202 92v40M218 108v24" stroke="#438BD8" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

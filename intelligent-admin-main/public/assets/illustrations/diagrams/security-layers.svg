@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" fill="none" role="img" aria-labelledby="secTitle">
+  <title id="secTitle">Security by design layered controls</title>
+  <rect width="480" height="360" rx="16" fill="#071A3D"/>
+  <text x="28" y="40" fill="#D9EAF8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="0.12em">SECURITY BY DESIGN</text>
+  <text x="28" y="62" fill="#5F6B7A" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Defense in depth for cloud platforms</text>
+
+  <g stroke-linejoin="round">
+    <rect x="96" y="92" width="288" height="44" rx="10" stroke="#438BD8" stroke-width="1.5" fill="#0B2248"/>
+    <text x="190" y="119" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">APPLICATION</text>
+    <path d="M240 136v16" stroke="#F26A13" stroke-width="2"/>
+    <circle cx="240" cy="152" r="3" fill="#F26A13"/>
+
+    <rect x="96" y="160" width="288" height="44" rx="10" stroke="#438BD8" stroke-width="1.5" fill="#0B2248"/>
+    <text x="224" y="187" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">WAF</text>
+    <path d="M240 204v16" stroke="#F26A13" stroke-width="2"/>
+    <circle cx="240" cy="220" r="3" fill="#F26A13"/>
+
+    <rect x="96" y="228" width="288" height="44" rx="10" stroke="#438BD8" stroke-width="1.5" fill="#0B2248"/>
+    <text x="224" y="255" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">IAM</text>
+    <path d="M240 272v16" stroke="#F26A13" stroke-width="2"/>
+    <circle cx="240" cy="288" r="3" fill="#F26A13"/>
+
+    <rect x="96" y="296" width="288" height="44" rx="10" stroke="#5BA3E0" stroke-width="1.5" fill="#0B2248"/>
+    <text x="198" y="323" fill="#FFFFFF" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="600">NETWORK</text>
+  </g>
+</svg>

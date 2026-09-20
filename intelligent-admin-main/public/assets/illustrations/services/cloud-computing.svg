@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="svcCloudTitle">
+  <title id="svcCloudTitle">Cloud Computing</title>
+  <rect width="64" height="64" rx="14" fill="#D9EAF8"/>
+  <path d="M18 40.5c0-5.8 4.2-10.4 10.2-11.6C29.8 23.4 35 19.5 41 19.5c7.2 0 12.8 5.1 13.8 11.8 4.6.6 8.2 4.6 8.2 9.4 0 5.4-4.3 9.8-9.7 9.8H26.2C21.4 50.5 18 46.4 18 40.5z" stroke="#04275F" stroke-width="2.25" stroke-linejoin="round"/>
+  <path d="M26 36.5c2.2-3.8 5.8-5.8 10-5.8" stroke="#438BD8" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="32" cy="42" r="1.6" fill="#F26A13"/>
+  <circle cx="38" cy="42" r="1.6" fill="#2D63BD"/>
+  <circle cx="44" cy="42" r="1.6" fill="#2D63BD"/>
+</svg>
